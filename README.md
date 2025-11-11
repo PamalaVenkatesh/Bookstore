@@ -1,1 +1,1 @@
-# Bookstore Database Management System<img 
+# Bookstore Database Management System
